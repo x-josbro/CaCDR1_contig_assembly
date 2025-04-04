@@ -10,3 +10,5 @@ process_accessions_8.py accession_list.txt reference_ncbi.fa .
 
 #The resulting dna sequences were then convereted to amino acid .fasta files via:
 python dna_2_protein_recursive2.py .
+
+Resulting datasets availabe: 
